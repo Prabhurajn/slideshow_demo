@@ -1,0 +1,3 @@
+name = slideshow_demo
+description = Implements an AngularJS-driven block which can render json data
+core = 7.x
